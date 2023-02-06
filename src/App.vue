@@ -13,7 +13,7 @@ import HelloWorld from './components/HelloWorld.vue'
             <nav>
                 <!-- RouterLink : des liens qui pointent vers le composant à afficher -->
                 <!-- Voir la configuration des liens dans router/index.js -->
-                <RouterLink to="/">Home</RouterLink>
+                <RouterLink oto="/">Home</RouterLink>
                 <RouterLink to="/about">About</RouterLink>
                 <RouterLink to="/categories">Categories</RouterLink>
             </nav>
